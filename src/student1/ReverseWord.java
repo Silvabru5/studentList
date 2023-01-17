@@ -1,10 +1,10 @@
 package student1;
-
-/**
- *
- * @author Bruno
- */
 import java.util.Scanner;
+/*
+ * Author: Bruno
+ * Date created: 1/17/2023
+ */
+
 public class ReverseWord {
     public static void main(String[] args){
        /* char[] myWord = new char[7];
