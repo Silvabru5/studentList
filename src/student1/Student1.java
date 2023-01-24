@@ -1,6 +1,6 @@
 package student1;
 /**
- *
+ * date: Jan 24, 2023.
  * @author Bruno
  */
 public class Student1 {
